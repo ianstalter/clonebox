@@ -1,0 +1,34 @@
+{
+"name": "clonebox",
+"title": "jQuery Clonebox",
+"description": "Simple solution for cloning input boxes, with convenient 'add/remove buttons",
+"keywords": [
+"jquery",
+"clone"
+],
+"version": "1.0.0",
+"author": {
+"name": "ian stalter",
+"url": "https://github.com/ianstalter/clonebox"
+},
+"maintainers": [
+{
+"name": "Ian Stalter",
+"email": "ianstalter@debrucellc.com",
+"url": "http://www.threeblokesfromchina.com"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "https://github.com/ianstalter/clonebox"
+}
+],
+"bugs": "https://github.com/jquery/clonebox/issues",
+"homepage": "https://github.com/ianstalter/clonebox",
+"docs": "https://github.com/ianstalter/clonebox",
+"download": "https://github.com/ianstalter/clonebox",
+"dependencies": {
+"jquery": ">=1.7"
+}
+}
